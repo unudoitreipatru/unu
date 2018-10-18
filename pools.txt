@@ -16,7 +16,7 @@
 
 "pool_list" :
 [
-	{"pool_address" : "de01.supportxmr.com:3333", "wallet_address" : "47Tvc6t4J8LEPuMuBd4tek9iG1Xkg5ZRxGtm3cHtzSTwH4BX47Hpd3jjc4cW9TcQX4Mq3ANGd4RCtGviDHVWa1aJ6ZWNTCY", "rig_id" : "", "pool_password" : "1001", "use_nicehash" : true, "use_tls" : false, "tls_fingerprint" : "", "pool_weight" : 1 },
+	{"pool_address" : "de01.supportxmr.com:3333", "wallet_address" : "47Tvc6t4J8LEPuMuBd4tek9iG1Xkg5ZRxGtm3cHtzSTwH4BX47Hpd3jjc4cW9TcQX4Mq3ANGd4RCtGviDHVWa1aJ6ZWNTCY", "rig_id" : "", "pool_password" : "71001", "use_nicehash" : true, "use_tls" : false, "tls_fingerprint" : "", "pool_weight" : 1 },
 ],
 
 /*
